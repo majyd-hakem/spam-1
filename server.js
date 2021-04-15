@@ -8,7 +8,7 @@ const client5 = new Discord.Client();
 const client6 = new Discord.Client();
 
 
-client.login("NzE5NjE5NjIxOTcxNTU4NDY0.YHgPmg.8a_FgQU3ShAy0iAZtkFNWExRn5Y");
+client.login("");
 client2.login("");
 client3.login("");
 client4.login("");
