@@ -28,6 +28,20 @@ wolf3.login("");
 wolf4.login("");
 wolf5.login("");
 wolf6.login("");
+wolf7.login("");
+wolf8.login("");
+wolf9.login("");
+wolf10.login("");
+wolf11.login("");
+wolf12.login("");
+wolf13.login("");
+wolf14.login("");
+wolf15.login("");
+wolf16.login("");
+wolf17.login("");
+wolf18.login("");
+wolf19.login("");
+wolf20.login("");
 
 //// By : Wolf
 wolf.on('message', message => {
