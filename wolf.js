@@ -6,6 +6,20 @@ const wolf3 = new Discord.Client();
 const wolf4 = new Discord.Client();
 const wolf5 = new Discord.Client();
 const wolf6 = new Discord.Client();
+const wolf7 = new Discord.Client();
+const wolf8 = new Discord.Client();
+const wolf9 = new Discord.Client();
+const wolf10 = new Discord.Client();
+const wolf11 = new Discord.Client();
+const wolf12 = new Discord.Client();
+const wolf13 = new Discord.Client();
+const wolf14 = new Discord.Client();
+const wolf15 = new Discord.Client();
+const wolf16 = new Discord.Client();
+const wolf17 = new Discord.Client();
+const wolf18 = new Discord.Client();
+const wolf19 = new Discord.Client();
+const wolf20 = new Discord.Client();
 
 
 wolf.login("");
