@@ -128,5 +128,199 @@ if (message.content === '&spam') {
       }
 });
 
+wolf7.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
 
+wolf8.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf9.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf10.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf11.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf12.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf13.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf14.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf15.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf16.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf17.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf18.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf19.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+wolf20.on('message', message => {
+if (message.content === '&spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 8000; x++) {
+        message.channel.send(`I'm not a Devloper I'm just a Student`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
 ///////By : WOLF
